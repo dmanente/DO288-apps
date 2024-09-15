@@ -1,0 +1,11 @@
+You entered:
+ · GitHub Account Name:			dmanente
+ · Quay.io Account Name:		dino.manente
+
+Generated config:
+ · Nexus Server Host:			nexus-common.apps.eu410.prod.nextcle.com
+ · MySQL Server Host:			mysql.ocp-eu46r.prod.ole.redhat.com
+ · GitHub Account Name:			dmanente
+ · Quay.io Account Name:		dino.manente
+
+
